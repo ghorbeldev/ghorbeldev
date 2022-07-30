@@ -2,11 +2,13 @@
 
 ## A frontend developer from Tunisia
 
-I'm a 16 years old self-taught-programmer 🤓. I love coding , programming and every thing about Computer Science field 💻.. I aspire to become a successful programmer in the future...
+I'm a passionate tunisian programmer who love coding , programming and every thing about Computer Science field 💻..
 
-I have been invloved with programming for over 2 years and with web development for over 1 year👨‍💻
+I have been invloved with **programming** and **web development** for over **2 years** 👨‍💻...
 
-Also I'm a Gamer & Chess Player😀.
+Currently, I am trying to develop myself and my programming skills and follow up on everything new in this field...
+
+JavaScript Lover<33
 
 ## Connect with me:
 
