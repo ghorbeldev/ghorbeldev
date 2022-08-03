@@ -2,20 +2,21 @@
 
 ## A frontend developer from Tunisia
 
-Adem Ghorbel is a software developer. He started programming aged 14 and from there, his story began. He is mainly a web developer with more than 2 years of experience working on multiple projects.
+Adem Ghorbel is a software developer. He started programming aged 14 and from there, his story began. He is mainly a web developer with more than 2 years of experience working on multiple projects.<br>
 Worked on multiple Frameworks and libraries such as ReactJS and programming & scripting languages such as JavaScript, TypeScript, Python, and C 🙌
 
-📍 Check out the open-source projects on GitHub 👇: https://www.github.com/ghorbeldev
+📍 Check out the open-source projects on GitHub 👇:<br> 
+https://www.github.com/ghorbeldev
 
 Adem is a passionate developer striving for excellence in his field through meaningful aspects.🎯
 
-📎Want to know more about me? check my personal portfolio website 👇:
+📎Want to know more about me? check my personal portfolio website 👇:<br>
 https://ghorbeldev.github.io/ademghorbel/
 
-🔰 If you want to contact Adem, please reach him via 👇:
-⚫️ [Linkedin](https://www.linkedin.com/in/adem-ghorbel-324659219/) & [Facebook](https://www.facebook.com/adem.ghorbel.98) 
-⚫️ Email: adem.ghorbel9@gmail.com
-⚫️ Phone: (+216) 21 033 874
+🔰 If you want to contact Adem, please reach him via 👇:<br>
+⚫️ [Linkedin](https://www.linkedin.com/in/adem-ghorbel-324659219/) & [Facebook](https://www.facebook.com/adem.ghorbel.98)<br>
+⚫️ Email: adem.ghorbel9@gmail.com<br>
+⚫️ Phone: (+216) 21 033 874<br>
 
 ## Connect with me:
 
