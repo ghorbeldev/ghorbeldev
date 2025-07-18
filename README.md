@@ -1,42 +1,68 @@
 # Hi 👋, I'm Adem Ghorbel (ghorbeldev)
 
-## A frontend developer from Tunisia
+## 👨‍💻 19 y/o Software & AI Developer | Engineering Student @ IPEIS | 🇹🇳 Tunisia
 
-Adem Ghorbel is a software developer. He started programming aged 14 and from there, his story began. He is mainly a web developer with more than 2 years of experience working on multiple projects.<br>
-Worked on multiple Frameworks and libraries such as ReactJS and programming & scripting languages such as JavaScript, TypeScript, Python, and C 🙌
+Hey there! I'm **Adem Ghorbel**, a passionate developer from Tunisia 🇹🇳. I started programming at 14, and now at 19, I'm an engineering student at **IPEIS** — pushing the boundaries of what I can build.
 
-📍 Check out the open-source projects on GitHub 👇:<br> 
-https://www.github.com/ghorbeldev
+I began as a frontend developer and now explore the exciting world of **Artificial Intelligence**, **Fullstack Development**, and **Creative Tech Projects**.
 
-Adem is a passionate developer striving for excellence in his field through meaningful aspects.🎯
+🛠️ I’ve worked with tools and languages like:
+- **ReactJS**, **TailwindCSS**, **TypeScript**, **Python**, **C**, **Next.js**, and more
+- Currently diving deep into **AI**, **Machine Learning**, and **generative tech**
 
-📎Want to know more about me? check my personal portfolio website 👇:<br>
-https://ghorbeldev.github.io/ademghorbel/
+💡 I'm always building, experimenting, and creating meaningful digital experiences.
 
-🔰 If you want to contact Adem, please reach him via 👇:<br>
-⚫️ [Linkedin](https://www.linkedin.com/in/adem-ghorbel-324659219/) & [Facebook](https://www.facebook.com/adem.ghorbel.98)<br>
-⚫️ Email: adem.ghorbel9@gmail.com<br>
-⚫️ Phone: (+216) 21 033 874<br>
+---
 
-## Connect with me:
+## 🔗 Links
+
+📍 Check out my projects:  
+👉 [github.com/ghorbeldev](https://www.github.com/ghorbeldev)
+
+🧠 My portfolio & personal site:  
+👉 [ghorbeldev.github.io/ademghorbel](https://ghorbeldev.github.io/ademghorbel/)
+
+📬 Reach me:  
+- 📧 **adem.ghorbel9@gmail.com**  
+- 📞 **(+216) 21 033 874**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/adem-ghorbel-324659219/)  
+- 📘 [Facebook](https://www.facebook.com/adem.ghorbel.98)  
+- 🐦 [Twitter](https://twitter.com/ghorbel_adem)
+
+---
+
+## 🤝 Let's Connect
 
 <p align="left">
-<a href="https://twitter.com/ghorbel_adem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghorbel_adem" height="25" width="35" /></a>
-<a href="https://linkedin.com/in/adem ghorbel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adem ghorbel" height="25" width="35" /></a>
-<a href="https://fb.com/adem ghorbel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adem ghorbel" height="25" width="35" /></a>
+  <a href="https://twitter.com/ghorbel_adem" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="25" width="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/adem-ghorbel-324659219/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="35" />
+  </a>
+  <a href="https://www.facebook.com/adem.ghorbel.98" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="25" width="35" />
+  </a>
 </p>
 
-## Tech I'm Currently Used:
+---
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## ⚙️ Tech I'm Working With
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+🧠 Always learning. Always building. Always improving.
 
