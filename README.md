@@ -1,8 +1,8 @@
 # Hi 👋, I'm Adem Ghorbel (ghorbeldev)
 
-## 👨‍💻 19 y/o Software & AI Developer | Engineering Student @ IPEIS | 🇹🇳 Tunisia
+## 👨‍💻 Software & AI Developer | Engineering Student @ SUP'COM | 🇹🇳 Tunisia
 
-Hey there! I'm **Adem Ghorbel**, a passionate developer from Tunisia 🇹🇳. I started programming at 14, and now at 20, I'm an engineering student at **IPEIS** — pushing the boundaries of what I can build.
+Hey there! I'm **Adem Ghorbel**, a passionate developer from Tunisia 🇹🇳. I started programming at 14, and today I'm an engineering student at **SUP'COM** — pushing the boundaries of what I can build.
 
 I began as a frontend developer and now explore the exciting world of **Artificial Intelligence**, **Fullstack Development**, and **Creative Tech Projects**.
 
@@ -65,4 +65,3 @@ I began as a frontend developer and now explore the exciting world of **Artifici
 ---
 
 🧠 Always learning. Always building. Always improving.
-
