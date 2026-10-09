@@ -20,7 +20,7 @@ I began as a frontend developer and now explore the exciting world of **Artifici
 👉 [github.com/ghorbeldev](https://www.github.com/ghorbeldev)
 
 🧠 My portfolio & personal site:  
-👉 [ghorbeldev.github.io/ademghorbel](https://ghorbeldev.github.io/ademghorbel/)
+👉 [ghorbeldev.github.io](https://ghorbeldev.github.io/)
 
 📬 Reach me:  
 - 📧 **adem.ghorbel9@gmail.com**  
